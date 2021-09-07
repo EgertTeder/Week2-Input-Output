@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greetings", "Greetings.csproj", "{69049892-C931-4EDF-B755-AF8EE1C4FAD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetimgsVs2", "GreetimgsVs2\GreetimgsVs2.csproj", "{F410A7DB-E14F-4594-8847-6734DA293B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69049892-C931-4EDF-B755-AF8EE1C4FAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69049892-C931-4EDF-B755-AF8EE1C4FAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69049892-C931-4EDF-B755-AF8EE1C4FAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69049892-C931-4EDF-B755-AF8EE1C4FAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F410A7DB-E14F-4594-8847-6734DA293B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F410A7DB-E14F-4594-8847-6734DA293B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F410A7DB-E14F-4594-8847-6734DA293B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F410A7DB-E14F-4594-8847-6734DA293B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4A1F38-A875-4254-A2D8-50C88708FF51}
+	EndGlobalSection
+EndGlobal
